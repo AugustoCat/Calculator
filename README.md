@@ -2,5 +2,4 @@ This is a straightforward calculator built using only HTML, CSS, and JavaScript.
 
 Features:
 Responsive design for various screen sizes
-Real-time calculation results
 Clear and intuitive layout
